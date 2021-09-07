@@ -1,0 +1,31 @@
+.header{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.otsikko{
+    font-weight: 600;
+}
+.container{
+    width: 80%;
+    background-color: rgb(65, 150, 164);
+    color: white; 
+    padding: 20px;
+    margin-bottom: 3px;
+    margin-top: 3px;   
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainos{
+    width: 80%;
+    background-color:rgb(0, 184, 224);
+    color: white; 
+    padding: 20px;
+    margin-bottom: 3px;
+    margin-top: 3px; 
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;  
+    }
