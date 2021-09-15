@@ -1,0 +1,28 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.author
+{
+  color: #333333
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+.type
+{
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.price{
+  margin-top: 20px;
+  font-size: 18px;
+}
