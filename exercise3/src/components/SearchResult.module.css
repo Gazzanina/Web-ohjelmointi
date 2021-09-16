@@ -1,7 +1,7 @@
 .name
 {
   font-weight: 700;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 5px;
   font-size: 18px;
 }
@@ -24,5 +24,5 @@
 
 .price{
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 20px;
 }
