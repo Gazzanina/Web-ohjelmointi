@@ -45,7 +45,7 @@ class App extends React.Component {
           Search <input type="text" onChange={ this.onSearchFieldChange } value={ this.state.productSearchString }/>
         </div>
         <SearchView
-          items={ this.state.items.filter((item) => item.name.includes(this.state.productSearchString)) }
+          items={ this.state.items.filter((item) => item.name.includes(this.state.productSearchString) || item.author.includes(this.state.productSearchString)) }
           />
         <button onClick={() => this.setState({adminModeActive: !this.state.adminModeActive})}>Admin mode</button>
       </>
