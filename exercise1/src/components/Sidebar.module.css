@@ -1,0 +1,36 @@
+.sidebarBackground{
+    background-color: #f7f3f3;
+    padding: 20px;
+    margin-top: 3px;
+}
+
+.mostRead{
+    font-size: 24px;
+    font-weight: 700;
+    color:black;
+}
+
+.container2{
+    margin-top: 15px;
+    display: flex;
+    grid-template-columns: 1fr, 6fr;
+}
+.numbers{
+    color: rgb(65, 150, 164);
+    font-size: 26px;
+    font-weight: 800;
+    padding-right:0.5cm;
+}
+
+.title{
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    
+}
+
+.subtitle{
+    font-size:14px;
+    color: black;
+    font-weight:400;
+}
