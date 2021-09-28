@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Good as Gold",
+      "author": "Colourpop Cosmetics",
+      "type": "Eyeshadow Palette",
+      "price": 18.95,
+      "rating": "3.5star.jpg",
+      "image": "colourpopgoodasgold.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pink Religion",
+      "author": "Jeffree Star Cosmetics",
+      "type": "Artistry Palette",
+      "price": 59.95,
+      "rating": "4.5star.jpg",
+      "image": "jeffreestarpinkreligion.jpg"
+    },
+    {
+      "id": 3,
+      "name": "35B X Lisa Frank",
+      "author": "Morphe",
+      "type": "Artistry Palette",
+      "price": 33.99,
+      "rating": "4.5star.jpg",
+      "image": "morphe35b.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Enchanted",
+      "author": "Sigma Beauty",
+      "type": "Eyshadow Palette",
+      "price": 41.49,
+      "rating": "5star.jpg",
+      "image": "sigmabeautyenchanted.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Naked Ultra Violet",
+      "author": "Urban Decay",
+      "type": "Eyshadow Palette",
+      "price": 29.99,
+      "rating": "3.5star.jpg",
+      "image": "urbandecaynakedultraviolet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Stoned Palette",
+      "author": "Urban Decay",
+      "type": "Eyshadow Palette",
+      "price": 49.99,
+      "rating": "4.5star.jpg",
+      "image": "urbandecaystonedpalette.jpg"
+    }
+  ]
+}
